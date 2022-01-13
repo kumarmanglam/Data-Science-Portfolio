@@ -7,8 +7,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Machine Learning
 
-	- [Term Deposit Prediction Model](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): Successfully implemented prediction model using Logistic regression and Decision tree algorithm. Predicted if the client will make a fixed deposit with the bank based on the age of the client, job type, marital status, etc.
-	- [Forecast hourly bike rental demand](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): Successfully implemented prediction model using Linear regression and Decision tree algorithm. Predicted if a person will rent a bike based on time, season, holiday, working day, weather, temperature, humidity, windspeed, registered.
+	- [Term Deposit Prediction Model](https://github.com/kumarmanglam/Data-Science-Portfolio/blob/main/Term_Deposit_prediction_model/FD_soln.ipynb): Successfully implemented prediction model using Logistic regression and Decision tree algorithm. Predicted if the client will make a fixed deposit with the bank based on the age of the client, job type, marital status, etc.
+	- [Forecast hourly bike rental demand](https://github.com/kumarmanglam/Data-Science-Portfolio/blob/main/Forcast_Hourly_bike_rental_demand/Benchmark%20solution.ipynb): Successfully implemented prediction model using Linear regression and Decision tree algorithm. Predicted if a person will rent a bike based on time, season, holiday, working day, weather, temperature, humidity, windspeed, registered.
 
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
